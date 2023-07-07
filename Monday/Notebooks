@@ -1,1 +1,32 @@
+1. The Math Module
+Python's built-in math module is a useful tool for performing a wide range of mathematical operations in your Python programs. This module contains a variety of functions for performing mathematical calculations, including trigonometric functions, logarithmic functions, and support for complex numbers.
 
+import math
+
+math.sqrt(25)   # square root
+
+2. NumPy
+NumPy is a powerful library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices of numerical data, as well as a wide range of functions to perform mathematical operations on these data structures. NumPy is widely used in the scientific community and is an essential tool for many scientific and engineering applications. 
+
+3. SymPy
+SymPy is a powerful Python library for symbolic mathematics. It allows you to perform a wide range of mathematical operations, including algebraic manipulation, calculus, and equation solving, using symbolic rather than numerical techniques. 
+
+4. Pandas
+One of the most popular uses of Python in mathematics is data analysis.
+
+5.SciPy
+ 
+
+SciPy is a comprehensive Python library that is widely used in the scientific community for scientific and engineering applications. It is built on top of the NumPy library and provides a wide range of functions and tools for optimizing performance, performing complex calculations, and analyzing data.
+
+6.  MatplotLib
+Matplotlib is an open-source library for creating visualizations of data in Python. It is designed to work well with the NumPy library, which is a powerful extension of Python for numerical mathematics. It allows users to create a wide range of static, animated, and interactive visualizations in Python. 
+
+7. Scikit Learn
+Scikit-learn is a powerful library in Python that is designed for machine learning and data analysis. It is built on top of other popular libraries such as NumPy, SciPy, and Matplotlib
+
+8. Statsmodel
+It's an open-source python module that provides a comprehensive set of tools for statistical analysis of data sets. 
+
+9. Dask
+Dask is a Python package that provides flexible, efficient and easy-to-use parallel computing.
