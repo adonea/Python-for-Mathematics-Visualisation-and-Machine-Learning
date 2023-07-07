@@ -1,4 +1,4 @@
-# $${\color{blue} Python-for-Mathematics-Visualisation-and-Machine-Learning }$$
+# $${\color{blue}Python for Mathematics and Visualisation and Machine-Learning }$$
 :+1: Monash Faculty of Science 10-14 July 2023 Workshop
 
 :+1: Meeting point: 
