@@ -12,7 +12,7 @@ Room G60 School of Mathematics
 
 :+1: Important sites:
 - [ ] Submit Fully worked Notebooks and the final assignment to the shared folder: https://drive.google.com/drive/folders/17381sXBaUOEdizBhrD5VO5gZUkpCiTev?usp=drive_link . Please create a folder with your name (Example: Alina_Donea_Monday) in the corresponding folder.
-- [ ] Work environment: https://colab.google/
+- [ ] Work environment: https://colab.google/ (read 3. Google Colab (START HERE) )
 - [ ] Attendance: tick the box: https://docs.google.com/spreadsheets/d/1xO6SeU-MfAyRbF0yvDwX5gxLWSkbsmNyMtXpDY4MGkg/edit#gid=0 .  This list will be compared with a printed list circulated during the workshop. If  you miss a session, add a note in the list and can work on notebooks remotely following deadlines.
 
 :+1: Work through the provided Jupyter (or plain Python) notebooks. 
