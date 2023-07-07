@@ -1,7 +1,12 @@
-Go to colab.google 
+You will work on Google Collab or if you prefer you can work with  python on your own machine.
+
+For info about Google Colab: https://youtu.be/inN8seMm7UI
+
+Go to colab.google (if you have a google account this will be very easy)
 Open a notebook
 
+Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+
+With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.
 
 
-
-Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
