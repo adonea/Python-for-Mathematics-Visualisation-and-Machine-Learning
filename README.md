@@ -3,6 +3,7 @@ Monash Faculty of Science 10-14 July 2023 Workshop
 
 Meeting point: 
 Room G60 School of Mathematics
+Time: 10 am - 1pm each day
 
 Bring your own laptop
 
