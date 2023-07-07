@@ -1,12 +1,46 @@
 You will work on Google Collab or if you prefer you can work with  python on your own machine.
 
-For info about Google Colab: https://youtu.be/inN8seMm7UI
-
-Go to colab.google (if you have a google account this will be very easy)
-Open a notebook
-
 Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
-
 With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.
 
+For info about Google Colab: https://youtu.be/inN8seMm7UI
+
+Instructions:
+
+Go to colab.google (if you have a google account this will be very easy)
+Open a notebook. Rename it First_code.ipynb
+
+Try this:
+
+import matplotlib.pyplot as plt
+
+x  = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+y1 = [1, 3, 5, 3, 1, 3, 5, 3, 1]
+y2 = [2, 4, 6, 4, 2, 4, 6, 4, 2]
+plt.plot(x, y1, label="line L")
+plt.plot(x, y2, label="line H")
+plt.plot()
+
+plt.xlabel("x axis")
+plt.ylabel("y axis")
+plt.title("Line Graph Example")
+plt.legend()
+plt.show()
+
+Try also this:
+
+x1 = [2, 3, 4]
+y1 = [5, 5, 5]
+
+x2 = [1, 2, 3, 4, 5]
+y2 = [2, 3, 2, 3, 4]
+y3 = [6, 8, 7, 8, 7]
+
+# Markers: https://matplotlib.org/api/markers_api.html
+
+plt.scatter(x1, y1)
+plt.scatter(x2, y2, marker='v', color='r')
+plt.scatter(x2, y3, marker='^', color='m')
+plt.title('Scatter Plot Example')
+plt.show()
 
