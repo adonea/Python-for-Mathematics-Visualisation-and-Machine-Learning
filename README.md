@@ -1,5 +1,6 @@
-# $${\color{blue}Python for Mathematics and Visualisation and Machine-Learning }$$
-:+1: Monash Faculty of Science 10-14 July 2023 Workshop
+# $${\color{blue}Python-for-Mathematics-and-Visualisation-and}$$
+# $${\color{blue}Machine-Learning }$$
+:+1: Monash University , Faculty of Science,  10-14 July 2023 Workshop
 
 :+1: Meeting point: 
 Room G60 School of Mathematics
