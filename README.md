@@ -22,8 +22,8 @@ We will validate your submitted codes every morning (at least 80% of the questio
 
 | Days | Topics | Assignments  |
 | :---         |     :---:      |          ---: |
-| Monday  | Mathematics    | Notebook 1   |
-| Tuesday      | Data      | Notebook 2    |
+| Monday  | Mathematics    | Worksheet 1.1 1   |
+| Tuesday      | Data/Stats      | Worksheet  2.1    |
 | Wednesday      | Coding/Simulations     | Notebook 3    |
 | Thursday      | Machine Learning     | Notebook 4     |
 | Friday     | Others     | Notebook 5   |
