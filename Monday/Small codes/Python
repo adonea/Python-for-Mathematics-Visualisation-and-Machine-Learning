@@ -1,1 +1,3 @@
+Minicodes can be copy/pasted in a jupyter notebook or can be run from a Terminal: python name.py
 
+Each file calls its own library.
