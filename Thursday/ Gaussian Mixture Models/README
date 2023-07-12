@@ -1,1 +1,7 @@
 
+Many clustering algorithms are available in Scikit-Learn and elsewhere, but perhaps the simplest to understand is an algorithm known as k-means clustering, which is implemented in sklearn.cluster.KMeans.
+
+The k-means algorithm searches for a pre-determined number of clusters within an unlabeled multidimensional dataset. It accomplishes this using a simple conception of what the optimal clustering looks like:
+
+1.The "cluster centre" = arithmetic mean of all the points belonging to the cluster.
+2. Proximity : Each point is closer to its own cluster center than to other cluster centers.
