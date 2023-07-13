@@ -26,6 +26,6 @@ We will validate your submitted codes every morning (at least 80% of the questio
 | Tuesday      | Data/Stats      | Worksheet  2.1    |
 | Wednesday      | Data/Panda/Visualisation| Notebook 3    |
 | Thursday      | Machine Learning     | Notebook 4     |
-| Friday     | Others     | Notebook 5   |
+| Friday     | Assignment     | (https://monash.zoom.us/j/81354255303?pwd=QjlheTRabUhlTnpJMlcxb3lsdVpJQT09)   |
 
 :+1: Collaboration is encouraged, we encourage research and discovery, so if you need extra time, let us know.. we want you to enjoy coding and discovering Python for Research.
